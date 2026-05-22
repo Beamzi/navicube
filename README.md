@@ -1,16 +1,16 @@
-# 3D Interactive Portfolio
+# Navicube (3D Interactive UX experiment)
 
-A modern, interactive portfolio showcasing frontend development and UI/UX skills, built with React, Next.js, TypeScript, Tailwind CSS, and Framer Motion.
+A modern, interactive navigator showcasing frontend development and UI/UX skills, built with React, Next.js, TypeScript, Tailwind CSS, and Framer Motion.
 
 ## Live Demo
-[https://james-day.dev](https://james-day.dev)
+[https://navicube-tawny.vercel.app/](https://navicube-tawny.vercel.app/)
 
 ## Tech Stack
 **Frontend:** React • Next.js • TypeScript • Tailwind CSS • Framer Motion  
 **3D / Animations:** Three.js  
 
 ## Features
-- Fully interactive 3D portfolio experience with smooth animations  
+- Fully interactive 3D navigation experience with smooth animations  
 - Custom reusable components and modular UI architecture  
 - Performance-optimised for fast load times and responsive design  
 - Immersive animations built with Framer Motion for engaging user experience  
