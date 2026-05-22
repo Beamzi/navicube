@@ -53,10 +53,10 @@ export default function HeroSection() {
   const wheelUncap = useMotionValue(0.5);
 
   const [innerWidth, setInnerWidth] = useState(
-    typeof window !== "undefined" ? (window.innerWidth * 0.7) / 200 : 1
+    typeof window !== "undefined" ? (window.innerWidth * 0.7) / 200 : 1,
   );
   const [innerHeight, setInnerHeight] = useState(
-    typeof window !== "undefined" ? (window.innerHeight * 0.7) / 200 : 1
+    typeof window !== "undefined" ? (window.innerHeight * 0.7) / 200 : 1,
   );
 
   useEffect(() => {}, []);
@@ -114,7 +114,7 @@ export default function HeroSection() {
                 ></img> */}
                 <MdOutlineAppRegistration className="w-5 h-5 mr-2" />
                 <motion.h3 className="absolute invisible sm:visible sm:relative text-lg  w-full text-center">
-                  Manaboard - A Full-Stack Workflow Management Platform
+                  Explore our demo by clicking on a feature view below
                 </motion.h3>
                 <motion.h3 className=" sm:hidden  text-lg  w-full text-center">
                   Manaboard

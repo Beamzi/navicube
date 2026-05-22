@@ -17,7 +17,7 @@ export default function HeaderTopBar() {
         ></img>
         <p className="sm:hidden h-5">James Day</p>
         <p className="invisible sm:visible absolute sm:relative h-5">
-          James Day - Frontend Developer (Full-Stack Capable)
+          Navicube
         </p>
       </div>
       <div className="h-7 flex [&>*]:px-5  ">
